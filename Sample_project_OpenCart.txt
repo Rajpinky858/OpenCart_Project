@@ -1,0 +1,87 @@
+Manual & Automation Testing Project.
+------------------------------------
+Project Introduction
+Understanding & Explore the Functionality (FRS Doc.)
+Estimation
+Test Plan
+Writing Test Scenarios
+Writing Test Cases & Reviews (RTM-Requirements Tracebility Matrics)
+Environment Setup & Build Deployment
+Test Execution
+Bug Reporting & Tracking
+Sanity Testing, Re-Testing & Regression Testing
+Test Sign off
+------------------------------------------------
+Project Introduction:
+Product: eCommerce Product/Application
+
+eCommerce:
+	Login
+	Search for products/items
+	Add to cart
+	Do Payment
+	Product will be delivered
+	Returns the product
+	etc...
+
+Frontend----Public/User
+Backend-----Admins
+
+Internet Application: Which can access through internet publicly and its also called Frontend
+Intranet Application: Which can access with in the Organization only and also called Backend.
+
+FRS - Functional Requirement Specification
+SRS - Software Requirement Specification
+
+Frontend Application---OpenCart
+URL: https://demo.opencart.com/
+
+
+Test Plan: 
+----------
+Describe the scope of the test.
+
+Scope: Inclusions
+	Registrer 
+	Login & Logout
+	Forgot Password
+	Search
+	Product Compare
+	Product Display Page
+	Add to Cart
+	Wish List
+	Shopping Cart
+	Currencies
+	Home Page
+	Checkout Page
+	My Account Page
+	Order History Page
+	Downloads page
+	Contact US Page
+	Menu Options
+	Category Pages
+
+Test Environments
+	Windows 11 - Chrome
+
+Test Strategy:
+Methods/types of testings
+	Process:
+		Smoke Testing & Sanity Testing
+		Regression Testing & Retesting
+		Usability Testing, Functionality  & UI Testing
+
+Defect Reporting Procedure:
+- Defects/Bugs report with ScreenShort with Decuments & Explonation
+- Use Jira tool for reporting
+
+Writing Test Scenarios:
+----------------------
+
+
+
+abc123456623@gmail.com
+123456789
+
+
+
